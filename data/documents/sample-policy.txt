@@ -1,0 +1,5 @@
+Document Approval Policy
+
+All enterprise documents must pass through department review before final approval.
+High-risk documents require compliance review and management approval.
+Approved documents should be stored in the official document management system.
